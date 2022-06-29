@@ -1,0 +1,9 @@
+﻿{
+  "Langs": {
+    "DefaultCulture": "en_US",
+    "Alphabets": {
+      "en_US": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "ru_RU": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
+    }
+  }
+}
